@@ -1,0 +1,32 @@
+.fa {
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+  }
+
+  .fa:hover {
+    opacity: 0.2;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    text-align: center;
+  }
+  
+  .fa-twitter {
+    background: none;
+    text-align: center;
+  }
+
+  .footer {
+    padding-top: 20px;
+  }
+
+  .social {
+    margin-left: 15px;
+    text-align: center;
+    float: right;
+    display: block;
+  }

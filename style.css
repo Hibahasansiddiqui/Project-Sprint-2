@@ -1,0 +1,85 @@
+body {
+  background-color: rgb(80, 151, 151);
+  background-image: linear-gradient(rgba(59, 175, 140, 0.616) white);
+}
+
+.header-decoration {
+  background-color: rgb(202, 193, 202);
+  background-image: linear-gradient(rgb(150, 12, 150) rgb(180, 153, 180));
+}
+
+.nav-bar {
+    display: block;
+    background-color: black;
+    height: 80px;
+    line-height: 80px;
+    font-size: 21px;
+    margin-top: 20px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.a {
+    display: block;
+    color: blanchedalmond;
+    float: left;
+    border-right: solid 2px blanchedalmond;
+    padding: 0 28px;
+    text-decoration: none;
+}
+
+.a:hover {
+    background-color: lightseagreen;
+}
+
+.active {
+    background-color: rgb(50, 180, 174);
+}
+
+.logo {
+    padding-left: 0%;
+    display: inline;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    display: inline;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 11%;
+    margin-bottom: 30px;
+}
+.cover {
+    padding-top: 20px;
+    padding-left: 5%;
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+}
+
+.h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+p {
+  font-size: medium;
+}
+
+.Button {
+  padding: 0 47%;
+  border: solid 2px black;
+  display: inline-block;
+  background-color: silver;
+  font-size: large;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #000;
+    color: white;
+    bottom:0%
+}
+
